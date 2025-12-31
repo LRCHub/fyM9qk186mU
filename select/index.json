@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Brighter",
+  "base_artist": "INI",
+  "createdAt": "2025-12-31T15:16:11.451951Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "She's Brighter",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/01_She's_Brighter_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brighter and Bigger",
+      "artist": "Black Marble",
+      "has_synced": false,
+      "path": "select/02_Brighter_and_Bigger_Black_Marble.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brighter Than a Thousand Suns",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/03_Brighter_Than_a_Thousand_Suns_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Brighter Star Than You Will Shine",
+      "artist": "Deacon Blue",
+      "has_synced": true,
+      "path": "select/04_A_Brighter_Star_Than_You_Will_Shine_Deacon_Blue.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Brighter Than the Sun",
+      "artist": "ABC",
+      "has_synced": false,
+      "path": "select/05_Brighter_Than_the_Sun_ABC.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Burn Less Brighter feat. Paul Conboy",
+      "artist": "Bomb the Bass",
+      "has_synced": true,
+      "path": "select/06_Burn_Less_Brighter_feat._Paul_Conboy_Bomb_the_Bass.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dream State (Brighter Night)",
+      "artist": "Son Lux",
+      "has_synced": true,
+      "path": "select/07_Dream_State_(Brighter_Night)_Son_Lux.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Brighter Days (feat. Dajae) (Loise Master at Work mix)",
+      "artist": "Cajmere",
+      "has_synced": false,
+      "path": "select/08_Brighter_Days_(feat._Dajae)_(Loise_Master_at_Work_mix)_Cajmere.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Brighter Day",
+      "artist": "Jellyfish",
+      "has_synced": false,
+      "path": "select/09_Brighter_Day_Jellyfish.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Brighter Day",
+      "artist": "Jellyfish",
+      "has_synced": true,
+      "path": "select/10_Brighter_Day_Jellyfish.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hearts Brighter",
+      "artist": "Lenka",
+      "has_synced": false,
+      "path": "select/11_Hearts_Brighter_Lenka.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Brighter As We Fall",
+      "artist": "Engineers",
+      "has_synced": true,
+      "path": "select/12_Brighter_As_We_Fall_Engineers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Brighter Than The Sun",
+      "artist": "Tiamat",
+      "has_synced": false,
+      "path": "select/13_Brighter_Than_The_Sun_Tiamat.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Brighter Than the Sun (Bullsrun mix)",
+      "artist": "Tiamat",
+      "has_synced": false,
+      "path": "select/14_Brighter_Than_the_Sun_(Bullsrun_mix)_Tiamat.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Brighter Days",
+      "artist": "Parts & Labor",
+      "has_synced": false,
+      "path": "select/15_Brighter_Days_Parts_&_Labor.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Brighter",
+      "artist": "Against The Current",
+      "has_synced": true,
+      "path": "select/16_Brighter_Against_The_Current.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Brighter",
+      "artist": "Against the Current",
+      "has_synced": true,
+      "path": "select/17_Brighter_Against_the_Current.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brighter",
+      "artist": "INI",
+      "has_synced": false,
+      "path": "select/pl_01_Brighter_INI.txt"
+    }
+  ]
+}
